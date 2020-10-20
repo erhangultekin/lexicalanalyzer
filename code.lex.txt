@@ -1,0 +1,41 @@
+Identifier(ERHAN)
+operator(++)
+LeftPar
+Identifier(MUSTAFA)
+operator(+)
+Identifier(KEMAL)
+operator(+)
+Identifier(ATATURK)
+RightPar
+EndOfLine
+Integer(25)
+operator(*)
+Integer(13)
+EndOfLine
+String("Bu Bir Stringtir ve sonsuz boyutta yazilabilir")
+EndOfLine
+String Error 
+EndOfLine
+keyword(while)
+EndOfLine
+keyword(break)
+keyword(break)
+Identifier(BREAKERHAN)
+Identifier(HI)
+operator(:=)
+Identifier(HELLO)
+operator(+)
+Integer(25)
+EndOfLine
+Identifier(HELLO)
+operator(++)
+EndOfLine
+Integer size Error(Maksimum size 10 digits.) 
+EndOfLine
+Maksimum identifier size is 20. 
+LeftSquareBracket
+RightSquareBracket
+RighyCurlyBracket
+LeftSquareBracket
+LeftCurlyBracket
+EndOfLine

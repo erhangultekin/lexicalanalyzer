@@ -1,0 +1,14 @@
+erhan++
+(Mustafa+Kemal+Ataturk);
+25*13;
+"Bu Bir Stringtir ve sonsuz boyutta yazilabilir";
+"Bu bir string degildir tirnak isareti ile kapanmamistir;
+WHILE;
+break
+BREAK
+breakerhan
+hi:=hello+25; (*addition *) 
+hello++; (*increment*)
+1234567891204256;
+erhan_13_abi_identifier_siniri_asildi
+[]}[{;
