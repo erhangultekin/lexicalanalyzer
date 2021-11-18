@@ -52,11 +52,10 @@
  • Example Token: EndOfLine
  
  
- 8- Comments: Anything between (* and *) is a comment.
+ 8- Comments: Anything between (* and*) is a comment.
  • If a comment cannot terminate before the file end, there should be a
  lexical error issued.
- • Comments are just like blank space and they provide no tokens.
- ------------------------------------------------------------------------
+ 
  Project Defn: The Program should accept a source file called code.psi and
  produce a text file named as code.lex that contains all the tokens of the
  code.lex listed one after the other.
