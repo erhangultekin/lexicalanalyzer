@@ -51,6 +51,7 @@
  7- End of line: ;
  • Example Token: EndOfLine
  
+ 
  8- Comments: Anything between (* and *) is a comment.
  • If a comment cannot terminate before the file end, there should be a
  lexical error issued.
