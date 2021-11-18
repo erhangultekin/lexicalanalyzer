@@ -61,8 +61,8 @@
  code.lex listed one after the other.
  Example:
  if code.psi contains:
- hi:=hello+25; (*addition *)
- hello++; (*increment*)
+ hi:=hello+25; (addition)
+ hello++; (increment)
  code.lex would be:
  Identifier(hi)
  Operator(:=)
