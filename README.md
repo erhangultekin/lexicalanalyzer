@@ -56,6 +56,7 @@
  • If a comment cannot terminate before the file end, there should be a
  lexical error issued.
  
+ 
  Project Defn: The Program should accept a source file called code.psi and
  produce a text file named as code.lex that contains all the tokens of the
  code.lex listed one after the other.
@@ -73,4 +74,3 @@
  Identifier(hello)
  Operator(++)
  EndOfLine
- ---------------------------------------------------------------------------------------------------------------------------------------
